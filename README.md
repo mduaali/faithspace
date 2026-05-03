@@ -1,4 +1,8 @@
 # 🔮 FaithSpace
+<img width="1680" height="959" alt="Screenshot 2026-05-03 at 7 05 51 PM" src="https://github.com/user-attachments/assets/4d17227d-1110-4b3c-ac00-facb5d413ba7" />
+<img width="1680" height="961" alt="Screenshot 2026-05-03 at 7 06 14 PM" src="https://github.com/user-attachments/assets/c56cc51b-3506-4b32-b62d-1dcc5c1ec57c" />
+<img width="1680" height="962" alt="Screenshot 2026-05-03 at 7 07 13 PM" src="https://github.com/user-attachments/assets/974c025e-6ed7-401f-851f-3037081aebbe" />
+<img width="1680" height="960" alt="Screenshot 2026-05-03 at 7 07 40 PM" src="https://github.com/user-attachments/assets/5372b4f8-d6ea-4efb-8de7-12386440bd30" />
 
 **"many paths, one shared light."**
 
