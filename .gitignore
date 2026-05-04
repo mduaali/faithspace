@@ -1,5 +1,5 @@
-.streamlit/secrets.toml
 faith_env/
+venv/
 __pycache__/
 .DS_Store
 *.pyc
